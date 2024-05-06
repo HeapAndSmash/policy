@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/policy-core", "crates/policy-server", "crates/policy-worker"]
